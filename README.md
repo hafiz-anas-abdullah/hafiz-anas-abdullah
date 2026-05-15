@@ -2,7 +2,7 @@
 
 ### Full-Stack Web Developer (Laravel • NestJS • PHP • React)
 
-📍 Lahore, Pakistan • 📞 0331-27391119 • 📧 [hafizmwk@gmail.com](mailto:hafizmwk@gmail.com)
+📍 Lahore, Pakistan • 📞 0331-2739119 • 📧 [hafizmwk@gmail.com](mailto:hafizmwk@gmail.com)
 
 ---
 
