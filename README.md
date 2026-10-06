@@ -1,208 +1,92 @@
-# 👋 Hafiz Anas Abdullah
+# Hafiz Anas Abdullah
 
-### Full-Stack Web Developer (Laravel • NestJS • PHP • React)
+### Senior Backend Engineer · Node.js, NestJS, PHP & Laravel
 
-📍 Lahore, Pakistan • 📞 0331-2739119 • 📧 [hafizmwk@gmail.com](mailto:hafizmwk@gmail.com)
+I design and build production backend systems from the ground up, turning complex business rules into secure APIs, reliable payment workflows and maintainable products. I have been building web systems since 2017 across fitness, wellness, commerce, mobility, education and public-sector platforms.
 
----
+[Portfolio](https://hafiz-anas-abdullah.github.io/) · [LinkedIn](https://www.linkedin.com/in/hafiz-anas-abdullah/) · [Email](mailto:hafizmwk@gmail.com)
 
-## 🧠 Personal Statement
+## What I work on
 
-Software Engineer with **5+ years of experience** specializing in **PHP and Laravel backend development**, scalable API architecture, payment gateway integrations, and enterprise application development.
+- Modular REST APIs and domain-driven backend services
+- Subscriptions, payments, coupons, wallets, commissions, invoices and payouts
+- Multi-role platforms with scoped authentication, RBAC and permission controls
+- Marketplaces, booking systems, real-time communication and media workflows
+- Administration, reporting, exports and operational automation
 
-Strong expertise in designing modular and maintainable systems, developing RESTful APIs, integrating third-party services, and optimizing high-traffic applications. Experienced with **Node.js / NestJS** microservices, **MySQL**, **MongoDB**, and **AI-assisted development workflows** to improve engineering productivity and code quality.
+## Core technology
 
-Proven ability to lead development teams, mentor engineers, and deliver production-ready solutions across **fintech**, **e-commerce**, **fitness**, **logistics**, and **enterprise** domains.
+| Area | Technology |
+| --- | --- |
+| Backend | Node.js, TypeScript, NestJS, Express, PHP, Laravel, Eloquent ORM |
+| Data | MongoDB, Mongoose, MySQL, PostgreSQL, Redis |
+| Frontend | React, Next.js, Redux Toolkit, Material UI, Tailwind CSS |
+| Cloud & integrations | AWS S3, Firebase/FCM, Stripe, Paymob, PayFast, Apple in-app purchases |
+| Security & quality | JWT, Passport, RBAC, request validation, Jest, PHPUnit, Git |
+| Documents & media | PDFKit, QR codes, XLSX/CSV, Sharp, FFmpeg, Handlebars |
 
----
+## Featured projects
 
-## 🛠️ Technical Skills
+### CalisFix — Fitness Coaching and Subscription Platform
 
-### Backend Technologies
+Developed the NestJS/MongoDB backend and contributed across React and Next.js clients for a multi-role coaching platform. Implemented localized pricing, payment and coupon flows, invoices, complex workout/nutrition tools, chat, notifications, analytics and role-aware privacy.
 
-- PHP (Core)
-- Laravel (5.x – 11)
-- Node.js
-- NestJS
-- CodeIgniter
+`NestJS` `MongoDB` `React` `Next.js` `Paymob` `AWS S3` `Firebase`
 
-### API & Integrations
+### GymPassport — Corporate Wellness and Venue Platform
 
-- RESTful APIs, SOAP APIs
-- Stripe, PayPal, PayFast, PayTabs
-- HBL Integration, Alfah Payment Gateway
-- Firebase Cloud Messaging (FCM)
+Built core backend modules for a multi-portal B2B wellness platform connecting operators, venue partners, corporate customers, employees and finance teams. Delivered scoped identity and permissions, subscriptions, bookings, QR check-ins, invoices, payouts, reporting and exports.
 
-### Databases
+`NestJS` `MongoDB` `Next.js` `RBAC` `PDFKit` `QRCode`
 
-- MySQL
-- MongoDB
-- Oracle SQL
+### SM Fitness and Digital Content Platform
 
-### Frontend
+Built and maintained APIs for subscriptions, programs, workouts, paid media, completion tracking and administration. Implemented subscription lifecycles across web and mobile payments, localized pricing, activity history and server-side operational tooling.
 
-- React.js
-- JavaScript / jQuery
-- HTML5, CSS3
-- Bootstrap (3/4/5)
-- AJAX
+`NestJS` `MongoDB` `React` `Next.js` `Stripe` `Apple IAP` `Firebase`
 
-### Tools & DevOps
+### BNW Collections — E-Commerce Platform
 
-- Git / Bitbucket / SourceTree
-- Postman
+Built a Laravel e-commerce platform covering catalog variants, inventory, promotions, reviews, checkout, orders, returns, shipping, taxes and administration. Implemented review/rating features and solved complex product-option and variant-image workflows.
 
-### Additional Expertise
+`Laravel` `MySQL` `Eloquent` `Blade` `JavaScript` `PHPUnit`
 
-- Payment Systems & Subscription Billing
-- Queue & Middleware Architecture
-- Authentication & RBAC
-- Third-Party API Integrations
-- Agile / Scrum Development
+### Hemlock — Social Commerce Marketplace
 
----
+Developed major marketplace modules covering sellers, catalog, carts, multi-seller orders, commissions, shipping, ratings, moderation and notifications. Implemented seller-aware checkout, inventory validation and country-aware product visibility.
 
-## 💼 Work Experience
+`NestJS` `MongoDB` `React` `AWS S3` `Firebase`
 
-### 🏢 Softzee Solutions — Backend Engineer (PHP / Laravel / MERN)
+### Teachive / Dataxhub — Tutor and Student Marketplace
 
-**Dec 2020 – Present**
+Built financial and booking workflows connecting students with tutors, including appointments, payments, wallets, educator earnings, commissions and payout tracking. Added role-aware profiles, social signup and administrative reconciliation views.
 
-- Lead backend development and architecture for scalable web and mobile applications using Laravel and Node.js / NestJS
-- Designed and maintained RESTful APIs powering mobile apps, admin portals, and third-party integrations
-- Integrated secure payment systems including Stripe subscriptions, coupons, PayFast, PayTabs, HBL, and Alfah payment gateways
-- Developed scalable backend modules: authentication, RBAC, queue handling, notifications, and admin management tools
-- Built and optimized relational and non-relational database structures using MySQL and MongoDB
-- Collaborated with frontend developers, QA engineers, and designers for seamless project delivery
-- Conducted code reviews, mentored junior developers, and contributed to architecture and technical planning
-- Participated actively in agile workflows: sprint planning, standups, and release cycles
+`Laravel` `MySQL` `Sanctum` `Socialite` `Spatie Permissions` `Stripe`
 
----
+## Additional project catalog
 
-### 🏢 Power Information Technology Company (PITC) — Backend Engineer (Core PHP / Oracle SQL)
+| Project | Stack | Scope and contribution |
+| --- | --- | --- |
+| **Apiece** | NestJS, MongoDB, React | Creator-driven jigsaw platform with media uploads, puzzle games, subscriptions, payments, moderation, analytics and notifications. |
+| **Community Social Backend** | NestJS, MongoDB | Reusable social backend for feeds, nested comments, reactions, follows, stories, saved posts, notifications and direct/product chat. |
+| **Frankfurt Chauffeur Platform** | NestJS, MongoDB, Next.js | Multi-application ride-booking platform; delivered rebooking, priced add-ons, payment transitions and role-specific transactional workflows. |
+| **Forsa Marketplace** | Laravel, MySQL | Location-aware multi-vendor marketplace with discovery, offers, cart, wishlist, orders, protected transactions and payment flows. |
+| **Grand Sapphire** | Laravel, MySQL | Banquet and event-management application with customer, event, room, guest, review and role-based administration workflows. |
 
-**Oct 2017 – Dec 2020**
+## Experience
 
-- Developed and maintained enterprise-grade applications using Core PHP and Oracle SQL Developer
-- Worked extensively on Customer Complaint Management Systems: complaint tracking, workflow management, and operational efficiency
-- Contributed to the Employees Provident Fund System for employee financial and fund-related records
-- Improved application reliability, database performance, and system maintainability across internal enterprise platforms
-- Collaborated with cross-functional teams to troubleshoot production issues and implement system enhancements
+**Senior Backend / Full-Stack Developer — Softzee Solutions**  
+December 2020 – Present
 
----
+Building and maintaining production platforms across Node.js, NestJS, PHP, Laravel, React and Next.js, with responsibility across APIs, payments, administration and deployment-facing workflows.
 
-## 🚀 Featured Projects
+**Web Developer — Power Information Technology Company, Ministry of Energy**  
+October 2017 – December 2020
 
-### Tech Stack: Laravel, MySQL
+Developed and maintained public-facing and internal systems using PHP and Oracle SQL, including customer complaint and employee fund-management applications.
 
-#### 🛒 BNW Collections — [bnwcollections.com](https://bnwcollections.com)
+## Currently open to
 
-- Full-featured e-commerce platform built from scratch in Laravel
-- Product management, order processing, and secure payment integrations
-- Modular backend architecture for scalability and future expansion
-- Optimized database queries and system performance
+Senior backend and full-stack opportunities involving Node.js, NestJS, PHP or Laravel—especially products with complex workflows, payments, subscriptions, marketplaces or multi-role access.
 
-#### 🍔 Yalla Foods
-
-- Scalable backend APIs for restaurant listings, menu management, and order processing
-- Secure authentication and delivery workflow management
-- Smooth integration between mobile apps and backend services
-
-#### 🛍️ Forsa
-
-- Backend APIs for a grocery delivery application
-- Product catalog, cart, order processing, and user authentication
-- Database design and optimized, scalable system architecture
-
-#### 🎓 R.A.C.E. — Raise Awareness of Coaching in Education — [race-coaching.net](https://race-coaching.net)
-
-- Community-driven educational platform in Laravel
-- Content management, user interaction, and community engagement modules
-- Secure authentication and role-based functionality for educators and students
-
-#### 📚 Teachive — [teachive.io](https://teachive.io)
-
-- Platform backend with scalable, maintainable Laravel architecture
-- APIs for educational content, user interaction, authentication, and administration
-- Performance optimization and backend reliability
-
----
-
-### Tech Stack: MERN (NestJS)
-
-#### 🏋️ Saturno Movement — [saturnomovement.com](https://saturnomovement.com)
-
-- Scalable backend APIs and admin panel for a fitness training platform
-- Authentication, user management, and content management workflows
-- APIs for seamless web and mobile communication under high usage
-
-#### 🏋️ Gym Passport — [gympassport.pk](https://gympassport.pk)
-
-- Rebuilt platform from scratch in NestJS with modernized architecture
-- Migrated legacy Laravel system to a scalable NestJS backend
-- Scalable APIs, authentication workflows, and services for web and mobile
-- Performance optimization and improved reliability for fitness and lifestyle management
-
-#### 💪 CalisFix — [calisfix.com](https://calisfix.com)
-
-- Scalable backend APIs in NestJS
-- Authentication, RBAC, user management, and admin panel workflows
-- API performance tuning and maintainable architecture
-
----
-
-### Tech Stack: CodeIgniter
-
-#### 🎡 Sozo Water Park Ticketing System
-
-- Ticket booking, visitor management, and transaction handling
-- Real-time ticket validation and reporting
-- Secure, reliable backend processes for daily operations
-
-#### 🏘️ CitiHousing Project
-
-- Housing society management: resident records, property management, admin workflows
-- Secure data management and optimized application performance
-
----
-
-### Tech Stack: Core PHP, Oracle SQL Developer
-
-#### 🏛️ Employees Provident Fund System (WAPDA)
-
-- Internal employee fund management for WAPDA
-- Employee records, fund tracking, and reporting modules
-- Secure handling of financial data; optimized database performance
-
-#### 📋 Complaint Management System (WAPDA)
-
-- Complaint tracking and workflow management for customer support
-- Registration, tracking, and administrative management modules
-- Workflow automation and structured data handling
-
-#### ⚡ Electricity Theft Reporting System
-
-- Web-based reporting and tracking of electricity theft incidents
-- Complaint submission, case management, and tracking
-- Secure data handling and user-friendly workflows
-
----
-
-## 🎓 Education
-
-**BS Computer Science** — Grade **3.02 / 4.00** (2012 – 2016)  
-Lahore Garrison University
-
-Four-year program covering Object-Oriented Programming, Data Structures, Databases, Web-related Tools, Algorithms, advanced programming, and related CS fundamentals.
-
----
-
-## 📫 Contact
-
-- Email: [hafizmwk@gmail.com](mailto:hafizmwk@gmail.com)
-- Phone: 0331-27391119
-- Location: Lahore, Pakistan
-
----
-
-⭐ _"Building scalable systems with clean architecture and performance in mind."_
+Explore the complete portfolio at **[hafiz-anas-abdullah.github.io](https://hafiz-anas-abdullah.github.io/)**.
